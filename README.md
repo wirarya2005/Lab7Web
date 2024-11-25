@@ -46,5 +46,15 @@
 ![do-while](/lab7_php_dasar/screenshoot/awal-10.png)
 ![do-while](/lab7_php_dasar/screenshoot/akhir-10.png)
 
+## Tugas Praktikum
+- `Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.`
+
+![tugas1](/lab7_php_dasar/screenshoot/tugas-awal-1.png)
+![tugas2](/lab7_php_dasar/screenshoot/tugas-awal-2.png)
+![tugas3](/lab7_php_dasar/screenshoot/tugas-akhir.png)
+
 Terima Kasih
 
