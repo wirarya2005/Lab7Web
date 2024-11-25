@@ -1,5 +1,4 @@
-# Lab2Web (Tugas Praktikum)
-Tugas 3 Pemrograman Web  
+# Lab7Web (Tugas Praktikum)
 - Nama: `Arya Wiratama`  
 - NIM: `312310244`  
 - Kelas: `TI.23.A2`  
